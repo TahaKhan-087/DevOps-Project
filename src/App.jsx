@@ -66,7 +66,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>Simple CURD Project</h1>
+      <h1>Simple CURD Project ABCDXYZ</h1>
       <form onSubmit={handleSubmit} className="form">
         <input
           type="text"
